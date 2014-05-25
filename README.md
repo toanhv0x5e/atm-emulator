@@ -1,4 +1,4 @@
-ATM-Emulator
-============
+ATM-Machine
+===========
 
-An emulator working of ATM machine
+A project emulator of ATM machine working
