@@ -4,6 +4,9 @@ Chuong trinh mo phong hoat dong may ATM
 |-- Chuong trinh Mo Phong Hoat Dong ATM --|
 |---------| Copyright (c) 2014  |---------|
 |------------| Author: SFT |--------------|
+|---------| PIN Default: 123456 |---------|
+|---------| Password: 557363 |------------|
+|---------| PIN ID 001 (Test): 111111 |---|
 |=========================================|*/
 #include <stdio.h>
 #include <conio.h>
