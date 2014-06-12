@@ -1,5 +1,6 @@
 ATM-Machine
 ===========
+![alt tag](https://raw.githubusercontent.com/sft-hardwork/ATM-Emulator/master/icon.png)
 A project emulator of ATM machine working
 
 Defaut Settings
