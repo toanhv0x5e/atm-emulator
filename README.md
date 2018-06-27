@@ -1,10 +1,8 @@
-# ATM-Machine
+## atm-machine
 
-![alt tag](https://raw.githubusercontent.com/sft-hardwork/ATM-Emulator/master/icon.png)
+Automated teller machine emulator, an assignment at university, 2012
 
-A project emulator of ATM machine working
-
-## Defaut Settings
+### Defaut Settings
 
 * Administrator password: **557363**
 
@@ -12,7 +10,7 @@ A project emulator of ATM machine working
 
 * ID 001 PIN: **111111**
 
-## Includes
+### Includes
 
 Full features of ATM machine working
 
@@ -26,7 +24,7 @@ Base Operator-System
 
 * Windows XP/ Vista/ 7/ 8/ 8.1
 
-## Install
+### Install
 
 * Compile with `gcc 4.7.x` or newer
 * Change value in `passwd` to change **Administrator's password**
