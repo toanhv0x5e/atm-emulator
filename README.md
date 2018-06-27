@@ -1,4 +1,4 @@
-## atm-machine
+## atm-emulator
 
 Automated teller machine emulator, an assignment at university, 2012
 
